@@ -48,6 +48,8 @@ dependencies:
 
   # An helper to easily exposes a value using InheritedWidget without having to write one.
   provider: ^5.0.0
+  json_serializable: ^4.1.4
+  json_annotation: ^4.1.0
 
 dev_dependencies:
   flutter_test:
